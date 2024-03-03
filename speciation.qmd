@@ -20,6 +20,8 @@ I am also much interested in the molecular processes underlying the evolution of
 
 My projects also involved field studies and mating experiments aimed at understading the barriers to gene flow among Arctic charr morphs.
 
+Most of this work was conducted as part of the [Arctic charr research group of the University of Iceland](https://bleikja.hi.is/).
+
 ### Key publications:
 
 **Horta-lacueva Q.J.B.,** Jónsson, Z.O., Thorholludottir D.A.V., Hallgrímsson, B., Kapralova K.H. (2023). Rapid and biased evolution of canalization during adaptive divergence revealed by dominance in gene expression variability during Arctic charr early development. *Communications Biology.* doi.org/10.1038/s42003-023-05264-5
