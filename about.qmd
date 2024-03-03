@@ -1,0 +1,24 @@
+---
+title: "About"
+image: images/piclab2.jpg
+about:
+  id: hero-heading
+  template: trestles
+  links:
+  - text: ResearchGate
+    href: https://www.researchgate.net/profile/Quentin-Horta-Lacueva
+  - text: Google Scholar
+    href: https://scholar.google.fr/citations?user=cxTLbd8AAAAJ&hl=fr
+---
+
+::: {#hero-heading}
+### Quentin Horta-Lacuevz, PhD.
+
+**Email:** quentin.horta-lacueva\[at\]biol.lu.se
+
+**My orcID:** <https://orcid.org/0000-0001-9656-1731>
+
+[My page at Lund University](https://portal.research.lu.se/en/persons/quentin-horta-lacueva)
+
+[Google Scholar](https://scholar.google.fr/citations?user=cxTLbd8AAAAJ&hl=fr)
+:::
