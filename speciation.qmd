@@ -6,6 +6,10 @@ title: Eco-Evo-Devo & Speciation
 ![](images/char-pictures.png)
 :::
 
+\#
+
+\#
+
 The theory of divergence by trophic polymorphism provides powerful explanations for the diversification of vertebrates. This theory has recently been extended to capture the interactions of developmental, ecological and evolutionary processes. However, this extended framework doesn't thoroughly account for the evolution of reproductive isolation.
 
 My recent PhD project revolved around the Arctic charr morphs of Thingvallavatn as an ideal system to integrate reproductive isolation to the theory of divergence by resource polymorphism.
@@ -34,4 +38,4 @@ orta-lacueva Q.J.B.,\*\* Benhaïm D., Morrissey M.B., Snorrason S.S., Kapralova 
 
 **Hde la Cámara, M., Ponsioen L.,** Horta-Lacueva, Q.J.B.\*\* & Kapralova, K.H. (2023) The dynamic ontogenetic patterns of adaptive divergence and sexual dimorphism in Arctic charr. *Evol. Biol.* doi.org/2021.01.15.426104
 
-orta‐Lacueva\*\* **Q.J.B.** Ólafsdóttir J.H., FinnF., Fiskoviča E., Ponsioen, L., de la Cámara M., Kapralova K.H.(2022) From drones to bones: Assessing the importance of abiotic factors for salmonid spawning behaviour and embryonic development through a multidisciplinary approach. *Ecol. Freshw. Fish* 1--11. doi:10.1111/eff.12654
+Horta‐Lacueva\*\* **Q.J.B.** Ólafsdóttir J.H., FinnF., Fiskoviča E., Ponsioen, L., de la Cámara M., Kapralova K.H.(2022) From drones to bones: Assessing the importance of abiotic factors for salmonid spawning behaviour and embryonic development through a multidisciplinary approach. *Ecol. Freshw. Fish* 1--11. doi:10.1111/eff.12654
