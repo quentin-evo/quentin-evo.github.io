@@ -1,0 +1,17 @@
+---
+title: Skull evolvability
+---
+
+How adaptive changes occurring within populations (microevolution) generate diversity across the tree of life (macroevolution) is a classical yet unresolved issue in evolution. Insight on this question can be provided by development, which may act as a keystone conciliating the two pillars of micro- and macroevolution by facilitating or constraining evolutionary changes over long evolutionary time scales.
+
+I am exploring this topic by studying the skull of lacertid lizards. Specifically, I am conducting comparative studies using X-ray microtomography data to investigate how different embryonic germ layers may impose developmental biases in distinct regions of the skull, potentially resulting in conserved patterns of variation across the phylogeny.
+
+# 
+
+# 
+
+::: column-page
+![Contrasting skull shapes of in two lacertid lizards. *Meroles sp*. (left) and *Nucras sp.* (right).](images/lizards.png)
+:::
+
+This project is par of a wider a set of studies conducted by the [Feiner-Uller research group](https://feiner-uller-group.se/).
