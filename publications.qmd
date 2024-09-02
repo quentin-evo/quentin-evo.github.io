@@ -2,18 +2,20 @@
 title: Publications
 ---
 
-**Horta-lacueva Q.J.B.,** Jónsson, Z.O., Thorholludottir D.A.V., Hallgrímsson, B., Kapralova K.H. (*Communications Biology*). Rapid and biased evolution of canalization during adaptive divergence revealed by dominance in gene expression variability during Arctic charr early development. doi.org/10.1038/s42003-023-05264-5
+Tsubio, M.,  Sztepanacz, S., De Lisle, S., Voje, K.L., Grabowki, M., Hopkins, M., Porto, A., Balk, M., Pontarp, A., Rossoni, D., Hildesheim, L., **Horta-Lacueva, Q.J.B**., Hohmann, N., Holstad, A., Lürig, M., Milocco, L., Nilén, S., Passorotto, A., Svensson, E., Villegas, C., Winslott, E., Liow, L., Hunt, G., Love, A., Houle, D. (2024) The paradox of predictability provides a bridge between micro- and macroevolution. *JEB*. doi.org/10.1093/jeb/voae103
+
+**Horta-Lacueva Q.J.B.,** Jónsson, Z.O., Thorholludottir D.A.V., Hallgrímsson, B., Kapralova K.H. (2023). Rapid and biased evolution of canalization during adaptive divergence revealed by dominance in gene expression variability during Arctic charr early development. *Communications Biology* doi.org/10.1038/s42003-023-05264-5
 
 de la Cámara, M., Ponsioen L., **Horta-Lacueva, Q.J.B.** & Kapralova, K.H. (2023) The dynamic ontogenetic patterns of adaptive divergence and sexual dimorphism in Arctic charr. *Evol. Biol.* doi.org/2021.01.15.426104
 
-**Horta-lacueva Q.J.B.,** Snorrason, S.S, Rayssac C.M., Sciannamea M.P., Lesdalon R.L.K., Jónsson Z.O., Chavoix C.C.M., Kapralova K.H. (*in prep.*) Asymmetric reproductive isolation in sympatric Arctic charr morphs revealed by a comprehensive examination of reproductive barriers.
+**Horta-Lacueva Q.J.B.,** Snorrason, S.S, Rayssac C.M., Sciannamea M.P., Lesdalon R.L.K., Jónsson Z.O., Chavoix C.C.M., Kapralova K.H. (*in prep.*) Asymmetric reproductive isolation in sympatric Arctic charr morphs revealed by a comprehensive examination of reproductive barriers.
 
-**Horta-lacueva Q.J.B.** (2022)Evolution of reproductive isolation in sympatric Arctic charr morphs (*Salvelinus alpinus*). PhD dissertation, Faculty of Life and Environmental Sciences, University of Iceland, 187pp.
+**Horta-Lacueva Q.J.B.** (2022)Evolution of reproductive isolation in sympatric Arctic charr morphs (*Salvelinus alpinus*). PhD dissertation, Faculty of Life and Environmental Sciences, University of Iceland, 187pp.
 
 **Horta‐Lacueva** **Q.J.B.** Ólafsdóttir J.H., FinnF., Fiskoviča E., Ponsioen, L., de la Cámara M., Kapralova K.H.(2022) From drones to bones: Assessing the importance of abiotic factors for salmonid spawning behaviour and embryonic development through a multidisciplinary approach. *Ecol. Freshw. Fish* 1--11. doi:10.1111/eff.12654
 
 **Horta-Lacueva Q.J.B.**, Snorrason S.S., Morrissey M.B., Leblanc C.A., Kapralova K.H. (2021). Multivariate analysis of morphology, behaviour, growth and developmental timing in hybrids brings new insights into the divergence of sympatric Arctic charr morphs. *BMC Ecol. Evol.* 21:1--15. doi.org/10.1101/2020.10.14.339911
 
-﻿**Horta-lacueva Q.J.B.,** Benhaïm D., Morrissey M.B., Snorrason S.S., Kapralova K.H. (2021). Animal personality adds complexity to the processes of divergence between sympatric morphs of Arctic charr. *Animal Behaviour.* 175:57--73. doi.org/10.1016/j.anbehav.2021.02.022
+﻿**Horta-Lacueva Q.J.B.,** Benhaïm D., Morrissey M.B., Snorrason S.S., Kapralova K.H. (2021). Animal personality adds complexity to the processes of divergence between sympatric morphs of Arctic charr. *Animal Behaviour.* 175:57--73. doi.org/10.1016/j.anbehav.2021.02.022
 
-Linden B., Foord S., **Horta-Lacueva Q.J.B**, Taylor P.J (2020) Bridging the gap: How to design canopy bridges for arboreal guenons to mitigate road collisions. *Biological. Conservation.* **246**. doi:10.1016/j.biocon.2020.108560
+Linden B., Foord S., **Horta-Lacueva Q.J.B**, Taylor P.J (2020) Bridging the gap: How to design canopy bridges for arboreal guenons to mitigate road collisions. *Biological. Conservation.* 246. doi:10.1016/j.biocon.2020.108560
