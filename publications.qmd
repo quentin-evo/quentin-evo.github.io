@@ -2,6 +2,8 @@
 title: Publications
 ---
 
+**Horta-lacueva, Q.**, Müller, J., Uller, T., Flecks, M., Gabelaia, M., Hipsley, C.A., Kirchner, M., Müller, J., Feiner, N. (2025) Neural crest cell biology shapes lizard skull evolution across evolutionary time scales. *Evolution Letters*, 1–13.
+
 Tsubio, M.,  Sztepanacz, S., De Lisle, S., Voje, K.L., Grabowki, M., Hopkins, M., Porto, A., Balk, M., Pontarp, A., Rossoni, D., Hildesheim, L., **Horta-Lacueva, Q.J.B**., Hohmann, N., Holstad, A., Lürig, M., Milocco, L., Nilén, S., Passorotto, A., Svensson, E., Villegas, C., Winslott, E., Liow, L., Hunt, G., Love, A., Houle, D. (2024) The paradox of predictability provides a bridge between micro- and macroevolution. *JEB*. doi.org/10.1093/jeb/voae103
 
 **Horta-Lacueva Q.J.B.,** Jónsson, Z.O., Thorholludottir D.A.V., Hallgrímsson, B., Kapralova K.H. (2023). Rapid and biased evolution of canalization during adaptive divergence revealed by dominance in gene expression variability during Arctic charr early development. *Communications Biology* doi.org/10.1038/s42003-023-05264-5
