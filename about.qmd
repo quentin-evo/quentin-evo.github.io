@@ -12,13 +12,17 @@ about:
 ---
 
 ::: {#hero-heading}
-### Quentin Horta-Lacuevz, PhD.
+### Quentin Horta-Lacueva, PhD.
 
-**Email:** quentin.horta-lacueva\[at\]biol.lu.se
+**Email:** quentin.horta-lacueva\[at\]ibv.uio.no
 
 **My orcID:** <https://orcid.org/0000-0001-9656-1731>
 
-[My page at Lund University](https://portal.research.lu.se/en/persons/quentin-horta-lacueva)
+[My page at Lund University (previous position)](https://portal.research.lu.se/en/persons/quentin-horta-lacueva)
 
-[Google Scholar](https://scholar.google.fr/citations?user=cxTLbd8AAAAJ&hl=fr)
+#### Expertise
+
+Evolutionary biology \| Morphology \| Genomics \| Behavioural ecology
+
+Herpetology \| Ichthyology
 :::

@@ -1,38 +1,32 @@
 ## Quentin HORTA-LACUEVA
 
 ::: column-page
-![](images/Diapositive1.PNG)
+![](images/20230106_010350.jpg){width="297" fig-align="center"}
 :::
 
 # 
 
-# 
-
-#### Welcome to my website!
+#### Welcome to my website !
 
 ------------------------------------------------------------------------
 
-Hello,
+My research is mainly focused of head shape evolution in vertebrate. I am currently based at the University of Oslo where I am conducting a project on beak evolution in crossbills.
 
-I am a Postdocal fellow at Lund University (Sweden), currently working as part of the [Feiner-Uller group](https://feiner-uller-group.se/).
+My investigations involve genomics, morphological comparative studies and behavioural approaches.
 
-I am mostly interested in the developmental origins of morphological diversity.
-
-My investigations usually involves Genomics, Morphological comparative studies and Behavioural experiments
-
-You can find more details on my main project below.
-
-#
-
-![](images/20230106_010350.jpg){width="297" fig-align="center"}
-
-------------------------------------------------------------------------
+Find more details on my main projects below.
 
 # 
+
+------------------------------------------------------------------------
 
 # 
 
 #### Navigate to my main projects:
+
+**Adaptive divergence in crossbills (in progress)**
+
+![](images/crossbill-website-illustration.jpg)
 
 ::: border
 [![](images/Diapositive2.PNG)](https://quentin-evo.github.io/morpho.html)

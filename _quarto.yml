@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - morpho.qmd
+      - speciation.qmd
+      - publications.qmd
+    tools:
+      - icon: envelope
+        aria-label: Email
+        href: "mailto:quentin.horta-lacueva@ibv.lu.se"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: false
+    page-layout: full
