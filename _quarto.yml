@@ -13,7 +13,7 @@ website:
     tools:
       - icon: envelope
         aria-label: Email
-        href: "mailto:quentin.horta-lacueva@ibv.lu.se"
+        href: "mailto:quentin.horta-lacueva@ibv.lu.no"
 
 format:
   html:
