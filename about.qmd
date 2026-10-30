@@ -16,6 +16,8 @@ about:
 
 **Email:** quentin.horta-lacueva\[at\]ibv.uio.no
 
+Department of Biosciences, University of Oslo, Norway
+
 **My orcID:** <https://orcid.org/0000-0001-9656-1731>
 
 [My page at Lund University (previous position)](https://portal.research.lu.se/en/persons/quentin-horta-lacueva)
@@ -24,5 +26,5 @@ about:
 
 Evolutionary biology \| Morphology \| Genomics \| Behavioural ecology
 
-Herpetology \| Ichthyology
+\| Ornithology \| Herpetology \| Ichthyology
 :::
